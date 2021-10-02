@@ -1,0 +1,2 @@
+# abnormalResponceSmtpServer
+任意の異常系応答を返すSMTPサーバ
